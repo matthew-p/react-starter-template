@@ -1,13 +1,13 @@
-Setup
+**Setup:**
 
-npm install
+`npm install`
 
-Compile
+**Compile:**
 
-npm run compile
+`npm run compile`
 
-Usage 
+**Usage:** 
 
-Start the development server with this command: 
+**Start the development server with:** 
 
-npm start
+`npm start`
